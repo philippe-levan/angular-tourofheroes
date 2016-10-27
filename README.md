@@ -6,7 +6,7 @@ Angular 2 quick start
 docker-compose build
 docker-compose up
 # in another bash
-docker exec -ti quickstart_angular_1 bash
+docker exec -ti tourofheroes_angular_1 bash
 
 # we are using yarn instead of npm because of the .lock file.
 yarn install
